@@ -1,7 +1,9 @@
 # AFSRNet: learning local descriptors with adaptive multi-scale feature fusion and symmetric regularization
 
 This is a PyTorch implementation of our paper:
+
 **"AFSRNet: learning local descriptors with adaptive multi-scale feature fusion and symmetric regularization"**   
+
 Li, Dong and Liang, Haowen and Lam, Kin-Man . Applied Intelligence 2024. [[paper](https://link.springer.com/article/10.1007/s10489-024-05418-w)]
 
 ## Requirements
